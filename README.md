@@ -6,8 +6,9 @@ In the [modules.py](https://github.com/BerkeArgin/muP-autoregressive/blob/main/m
 
 ## Usage
 1. Run `pip install -r requirements.txt`
-2. To conduct coordinate check test, run `./run_grid_coord.sh`
-3. To start training over a grid of widths and learning rates, run `./run_grid_train.sh`
-4. Otherwise, check the [train.py](https://github.com/BerkeArgin/muP-autoregressive/blob/main/train.py) script
+2. Create an `.env` file with fields `HF_TOKEN`, `WANDB_API_KEY` containing HuggingFace access token and W&B API keys.
+3. To conduct coordinate check test, run `./run_grid_coord.sh`
+4. To start training over a grid of widths and learning rates, run `./run_grid_train.sh`
+5. Otherwise, check the [train.py](https://github.com/BerkeArgin/muP-autoregressive/blob/main/train.py) script
 
 
