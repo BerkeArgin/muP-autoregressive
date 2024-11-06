@@ -1,4 +1,4 @@
-# u-muP-autoregressive
+# muP-autoregressive
 This notebook contains the muP implementation suggested [in this EleutherAI blog](https://blog.eleuther.ai/mutransfer/).
 Base transformer implementation is based on GPT2, provided [in this Arena exercise](https://arena3-chapter1-transformer-interp.streamlit.app/[1.1]_Transformer_from_Scratch).
 
