@@ -1,0 +1,7 @@
+transformer_lens
+einops
+jaxtyping
+python-dotenv
+torch
+datasets
+transformers
